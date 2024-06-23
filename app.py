@@ -59,9 +59,5 @@ def display_map():
 
 st.title("Peta Kepadatan Penduduk - Kec. Banggae, Kab. Majene, Prov. Sulawesi Barat")
 
-st.markdown("""
-<h3>
-    Chaerul Candra Pranugrah - D0221509 (SIG Informatika B)
-</h3>
-""")
+st.markdown("<h3> Chaerul Candra Pranugrah - D0221509 (SIG Informatika B) </h3>")
 display_map()
